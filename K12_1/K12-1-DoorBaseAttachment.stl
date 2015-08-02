@@ -1,0 +1,142 @@
+solid K12-1-DoorBase-5
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 86.0 9.999999999999998 0.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 10.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 86.0 9.999999999999998 0.0
+    vertex 86.0 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 84.0 0.0 1.9999999999999998
+    vertex 0.0 10.0 1.9999999999999998
+    vertex 0.0 0.0 1.9999999999999998
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 10.0 1.9999999999999998
+    vertex 84.0 0.0 1.9999999999999998
+    vertex 84.0 10.0 1.9999999999999998
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 10.0 1.9999999999999998
+    vertex 0.0 0.0 0.0
+    vertex 0.0 0.0 1.9999999999999998
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 0.0 10.0 1.9999999999999998
+    vertex 0.0 10.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 86.0 0.0 20.0
+    vertex 84.0 10.0 20.0
+    vertex 84.0 0.0 20.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 84.0 10.0 20.0
+    vertex 86.0 0.0 20.0
+    vertex 86.0 9.999999999999998 20.0
+  endloop
+endfacet
+facet normal 6.1658243799253295e-18 1.0 9.234171630407851e-18
+  outer loop
+    vertex 0.0 10.0 1.9999999999999998
+    vertex 86.0 9.999999999999998 0.0
+    vertex 0.0 10.0 0.0
+  endloop
+endfacet
+facet normal 6.1658243799253295e-18 1.0 9.234171630407851e-18
+  outer loop
+    vertex 86.0 9.999999999999998 0.0
+    vertex 0.0 10.0 1.9999999999999998
+    vertex 84.0 10.0 1.9999999999999998
+  endloop
+endfacet
+facet normal 6.1658243799253295e-18 1.0 9.234171630407851e-18
+  outer loop
+    vertex 86.0 9.999999999999998 0.0
+    vertex 84.0 10.0 1.9999999999999998
+    vertex 86.0 9.999999999999998 20.0
+  endloop
+endfacet
+facet normal 6.1658243799253295e-18 1.0 9.234171630407851e-18
+  outer loop
+    vertex 86.0 9.999999999999998 20.0
+    vertex 84.0 10.0 1.9999999999999998
+    vertex 84.0 10.0 20.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 86.0 9.999999999999998 0.0
+    vertex 86.0 0.0 20.0
+    vertex 86.0 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 86.0 0.0 20.0
+    vertex 86.0 9.999999999999998 0.0
+    vertex 86.0 9.999999999999998 20.0
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 86.0 0.0 0.0
+    vertex 84.0 0.0 1.9999999999999998
+    vertex 0.0 0.0 0.0
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 84.0 0.0 1.9999999999999998
+    vertex 86.0 0.0 0.0
+    vertex 86.0 0.0 20.0
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 84.0 0.0 1.9999999999999998
+    vertex 86.0 0.0 20.0
+    vertex 84.0 0.0 20.0
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 0.0 0.0 1.9999999999999998
+    vertex 0.0 0.0 0.0
+    vertex 84.0 0.0 1.9999999999999998
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 84.0 10.0 20.0
+    vertex 84.0 0.0 1.9999999999999998
+    vertex 84.0 0.0 20.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 84.0 0.0 1.9999999999999998
+    vertex 84.0 10.0 20.0
+    vertex 84.0 10.0 1.9999999999999998
+  endloop
+endfacet
+endsolid K12-1-DoorBase-5
